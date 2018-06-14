@@ -1,0 +1,22 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  text-align: center;
+}
+
+h1 {
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  width: 100%;
+}
+
+img {
+  height: 18.75em;
+  object-fit: cover;
+  width: 18.75em;
+}
